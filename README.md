@@ -1,3 +1,3 @@
 # first-asm
 
-//codes for programs wriiteen in aassembly
+//codes for programs wriiten in assembly
